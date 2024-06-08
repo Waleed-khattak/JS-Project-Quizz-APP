@@ -1,4 +1,4 @@
-# SImple_Quizz_APP
+# Simple_Quizz_APP
 
 Welcome to the Simple Quiz App project! This web application allows users to take quizzes on various topics in a fun and interactive way. Built using HTML, CSS, and JavaScript, this project demonstrates the creation of a simple quiz interface and provides an engaging user experience.
 
